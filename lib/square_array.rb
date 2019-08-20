@@ -6,7 +6,7 @@ def square_array(numbers)
     counter += 1
     
     end
-    return "Should wquare the elements in an array"
+    return 
   end
  
 
