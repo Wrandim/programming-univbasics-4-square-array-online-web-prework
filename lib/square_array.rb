@@ -6,11 +6,14 @@ def square_array(numbers)
   
   while counter < numbers.length do
     
-    puts numbers[counter]**2
+    numbers[counter]**2
     
     counter += 1
     
   end
+  
+  puts square_array
+  
 end
 
 #def square_array(new_numbers)
