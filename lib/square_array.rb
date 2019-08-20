@@ -12,9 +12,9 @@ def square_array(numbers)
     
   end
   
-  p done
-  
 end
+ puts done
+ 
 
 #def square_array(new_numbers)
  # new_numbers = [9, 10, 16, 25]
