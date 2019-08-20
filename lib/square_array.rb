@@ -6,7 +6,7 @@ def square_array(numbers)
     counter += 1
     end
   end
- puts "done"
+ square_array
  
 
 #def square_array(new_numbers)
